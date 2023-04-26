@@ -45,7 +45,7 @@ Sections:
 ---
 
 ## Papers List (to be orgnized)
-* 2021 - Ota: Optimal transport assignment for object detection __`CVPR`__  [Paper](http://arxiv.org/pdf/2103.14259v1)   <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20"/> [Code](https://github.com/Megvii-BaseDetection/OTA.git)
+* 2021 - Ota: Optimal transport assignment for object detection __`CVPR`__  [Paper](http://arxiv.org/pdf/2103.14259v1)   <img src="/imgs/github-mark.png" width="20" height="20"/> [Code](https://github.com/Megvii-BaseDetection/OTA.git)
 * 2020 - Margin-aware adversarial domain adaptation with optimal transport __`ICML`__   [Code](https://github.com/sofiendhouib/MADAOT.git)
 * 2023 - Watch and match: Supercharging imitation with regularized optimal transport __`CoRL`__  [paper](http://arxiv.org/pdf/2206.15469v2) [Code](https://github.com/siddhanthaldar/ROT.git)
 * 2020 - Copt: Coordinated optimal transport on graphs __`NeurIPS`__   [Code](https://github.com/twistedcubic/copt.git)
