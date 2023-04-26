@@ -23,22 +23,18 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 Overview
 - [Review Paper](#Review-Paper)
 
-[comment]: <> (Formulations:)
-
-[comment]: <> (- [Monge-Kantrovich]&#40;#Monge-Kantrovich&#41;)
-
-[comment]: <> (- [Regulaized Optimal Transport]&#40;#Regularized-OT&#41;)
-
-[comment]: <> (- [Partial Optimal Transport]&#40;#Partial-OT&#41;)
-
-[comment]: <> (- [Gromov Wasserstein]&#40;#Gromov-Wasserstein&#41;)
-
 Sections:
-- [Formulations](##Formulatins)
-  - [GW](##Gromov-Wasserstein)
-- [Domain Adaptation](##domain-adaptation)
-- [Gneerative Modeling](##generative-modeling)
-- [Fairness](##generative-modeling)
+- [Background](###Background)
+- Formulations  
+  - [Regularized OT](###Regularized-OT)
+  - [Sinkhorn](###Sinkhorn)
+  - [Unblanaced & Partial OT](###unblanaced-and-partial-OT)
+- Scaling OT
+  - [Measures]()
+- Applications
+  - [Domain Adaptation](###domain-adaptation)
+  - [Generative Modeling](###generative-models)
+  - [Others]()
 
 
 ---
@@ -91,7 +87,7 @@ Sections:
 
 
 
-### Unblanaced & Partial OT
+### Unblanaced and Partial OT
 * **2022** - __`arXiv`__ [*Unbalanced optimal transport, from theory to numerics*](http://arxiv.org/pdf/2211.08775v2) 
 * **2021** -  [*Unbalanced optimal transport in multi-camera tracking applications*]( ) 
 * **2021** - __`AAAI`__ [*Learning to count via unbalanced optimal transport*]( ) 
@@ -206,7 +202,7 @@ Sections:
 
 ---
 
-##Applications
+## Applications
 
 ### Generative Models
 * **2022** - __`NeurIPS`__ [*Score-based Generative Modeling Secretly Minimizes the Wasserstein Distance*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/UW-Madison-Lee-Lab/score-wasserstein.git)
