@@ -195,6 +195,7 @@ Sections:
 * 2019 - __`SIAM`__ [*Stabilized sparse scaling algorithms for entropy regularized transport problems*](http://arxiv.org/pdf/1610.06519v2) 
 * 2020 - __`UAI`__ [*A fast proximal point method for computing exact wasserstein distance*](http://arxiv.org/pdf/1802.04307v3) 
 * 2019 - __`AISTATS`__ [*Statistical optimal transport via factored couplings*](http://arxiv.org/pdf/1806.07348v3) 
+
 * 2021 -  [*Making transport more robust and interpretable by moving data through a small number of anchor points*](http://arxiv.org/pdf/2012.11589v3) 
 * 2022 - __`NeurIPS`__ [*Low-rank optimal transport: Approximation, statistics and debiasing*]( ) 
 * 2020 - __`NeurIPS`__ [*Faster wasserstein distance estimation with the sinkhorn divergence*](http://arxiv.org/pdf/2006.08172v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/leoHeidel/OT-numerics.git)
