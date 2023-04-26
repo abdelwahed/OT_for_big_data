@@ -148,8 +148,9 @@ Sections:
 ---
 
 ### Other formulations
-* **2021** - __`ICML`__ [*Outlier-robust optimal transport*]( ) 
 * **2022** - __`ICML`__ [*Order constraints in optimal transport*](http://arxiv.org/pdf/2110.07275v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/IBM/otoc.git)
+* **2021** - __`ICML`__ [*Outlier-robust optimal transport*]( ) 
+* **2020** - __`NeurIPS`__ [*Co-optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/COOT.git)
 * **2017** - __`CVPR`__ [*Order-preserving wasserstein distance for sequence matching*]( ) 
 
 
@@ -168,6 +169,7 @@ Sections:
 
 ### Scaling through measures simplification
 * **2022** - __`AMTA`__ [*Quantized wasserstein procrustes alignment of word embedding spaces*](http://arxiv.org/pdf/2212.02468v1) 
+* **2021** - __`UAI`__ [*Improving approximate optimal transport distances using quantization*](http://arxiv.org/pdf/2102.12731v2) 
 * **2020** - __`AISTATS`__ [*Gaussian-smoothed optimal transport: Metric structure and statistical efficiency*]( ) 
 
 ### Subspace robust & projection OT
@@ -184,12 +186,15 @@ Sections:
 * **2022** - __`ICML`__ [*Linear-time gromov wasserstein distances using low rank couplings and costs*](http://arxiv.org/pdf/2106.01128v2)
 * **2021** - __`arXiv`__ [*Approximating optimal transport via low-rank and sparse factorization*](http://arxiv.org/pdf/2111.06546v1) 
 
-### Scaling by Partitioning
+### Scaling by Computation Partitioning
+* **2022** - __`arXiv`__ [*Budget-constrained bounds for mini-batch estimation of optimal transport*]( ) 
 * **2020** - __`arXiv`__ [*Mrec: a fast and versatile framework for aligning and matching point clouds with applications to single cell molecular data*](http://arxiv.org/pdf/2001.01666v3)
+* **2020** - __`AISTATS`__ [*Learning with minibatch wasserstein: asymptotic and gradient properties*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/kilianFatras/minibatch_Wasserstein.git)
 * **2019** -  [*Optimal transport: Fast probabilistic approximation with exact solvers.*](http://arxiv.org/pdf/1802.05570v4) 
 * **2019** - __`NeurIPS`__ [*Scalable gromov-wasserstein learning for graph partitioning and matching*](http://arxiv.org/pdf/1905.07645v5)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/HongtengXu/s-gwl.git)
 * **2017** - __`JMLR`__ [*Multiscale strategies for computing optimal transport*](http://arxiv.org/pdf/1708.02469v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/KitwareMedicalPublications/2017-JMLR-OptimalTransport.git)
 * **2011** -  [*A multiscale approach to optimal transport*]( ) 
+
 
 ### Solver Acceleration (Neural Solvers)
 * **2023** - __`AISTATS`__ [*Rethinking initialization of the sinkhorn algorithm*](http://arxiv.org/pdf/2206.07630v2) 
@@ -228,6 +233,7 @@ Sections:
 * **2021** - __`NeurIPS`__ [*Lifelong domain adaptation via consolidated internal distribution*]( ) 
 * **2021** - __`CVPR`__ [*OTCE: A transferability metric for cross-domain cross-task representations*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tanyang1231/OTCE_Transferability_CVPR21.git)
 * **2021** - __`ICCV`__ [*The right to talk: An audio-visual transformer approach*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/uark-cviu/Right2Talk.git)
+* **2020** - __`CVPR`__ [*Deepemd: Few-shot image classification with differentiable earth mover's distance and structured classifiers*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/icoz69/DeepEMD.git)
 * **2020** - __`ICML`__ [*Margin-aware adversarial domain adaptation with optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sofiendhouib/MADAOT.git)
 * **2020** - __`ECCV`__ [*Learning to generate novel domains for domain generalization*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mousecpn/L2A-OT.git)
 * **2020** - __`IJCAI`__ [*Joint partial optimal transport for open set domain adaptation.*](https://www.ijcai.org/proceedings/2020/0352.pdf) 
@@ -251,6 +257,7 @@ Sections:
 * **2019** - __`ICML`__ [*Obtaining fairness using optimal transport theory*](http://arxiv.org/pdf/1806.03195v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/AugustinCombes/optimal-transport-fairness.git) [fairness]
 * **2019** - __`ICLR`__ [*Learning embeddings into entropic wasserstein spaces*](http://arxiv.org/pdf/1905.03329v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gabsens/Learning-Embeddings-into-Entropic-Wasserstein-Spaces-ENSAE.git) [embedding]
 * **2015** - __`ICML`__ [*From word embeddings to document distances*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mkusner/wmd.git) [document matching]
+* **2022** - __`CVPR`__ [*Unsupervised action segmentation by joint representation learning and online clustering*](http://arxiv.org/pdf/2105.13353v6) [action segmentation] 
 * Correspondance & Matching:
   * **2021** - __`CVPR`__ [*Loftr: Detector-free local feature matching with transformers*](http://arxiv.org/pdf/2104.00680v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/zju3dv/LoFTR.git)
   * **2020** - __`CVPR`__ [*Superglue: Learning feature matching with graph neural networks*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/magicleap/SuperGluePretrainedNetwork.git)
@@ -259,8 +266,9 @@ Sections:
   * **2019** - __`ICML`__ [*Optimal transport for structured data with application on graphs*](http://arxiv.org/pdf/1805.09114v3)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tvayer/FGW.git)
   * **2019** - __`ICML`__ [*Gromov-wasserstein learning for graph matching and node embedding*](http://arxiv.org/pdf/1901.06003v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/HongtengXu/gwl.git)
 
-### tools
+### Tools
 * **2021** - __`JMLR`__ [*Pot: Python optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/POT.git)
+* **2022** - __`arXiv`__ [*Optimal transport tools (ott): A jax toolbox for all things wasserstein*]( ) 
 
 
 
@@ -279,7 +287,6 @@ Sections:
 * **2021** - __`SIAM`__ [*Stochastic control liaisons: Richard sinkhorn meets gaspard monge on a schrodinger bridge*](http://arxiv.org/pdf/2005.10963v3) 
 * **2018** - __`TPAMI`__ [*Visual permutation learning*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/rfsantacruz/deep-perm-net.git)
 * **2020** - __`ICLR`__ [*Deep graph matching consensus*](http://arxiv.org/pdf/2001.09621v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/rusty1s/deep-graph-matching-consensus.git)
-* **2022** - __`CVPR`__ [*Unsupervised action segmentation by joint representation learning and online clustering*](http://arxiv.org/pdf/2105.13353v6) 
 * **2021** - __`CVPR`__ [*A generalized loss function for crowd counting and localization*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/jia-wan/GeneralizedLoss-Counting-Pytorch.git)
 * **2018** -  [*Optimal entropy-transport problems and a new hellinger–kantorovich distance between positive measures*]( ) 
 * **2020** - __`arXiv`__ [*Learning 3d-3d correspondences for one-shot partial-to-partial registration*]( ) 
@@ -296,7 +303,6 @@ Sections:
 * **2021** - __`ICML`__ [*Projection robust wasserstein barycenters*](http://arxiv.org/pdf/2102.03390v4) 
 * **2023** - __`ECML PKDD`__ [*Feature-robust optimal transport for high-dimensional data*]( ) 
 * **2022** -  [*Projection-based techniques for high-dimensional optimal transport problems*]( ) 
-* **2021** - __`UAI`__ [*Improving approximate optimal transport distances using quantization*](http://arxiv.org/pdf/2102.12731v2) 
 * **2017** -  [*Linear-complexity relaxed word mover's distance with gpu acceleration*](http://arxiv.org/pdf/1711.07227v1) 
 * **2020** - __`UAI`__ [*A fast proximal point method for computing exact wasserstein distance*](http://arxiv.org/pdf/1802.04307v3) 
 * **2019** - __`AISTATS`__ [*Statistical optimal transport via factored couplings*](http://arxiv.org/pdf/1806.07348v3) 
@@ -306,14 +312,10 @@ Sections:
 * **2021** - __`SIAM`__ [*Multimarginal optimal transport with a tree-structured cost and the schrodinger bridge problem*]( ) 
 * **2022** - __`CVPR`__ [*Computing wasserstein-p distance between images with linear cost*]( ) 
 * **1989** -  [*On the scaling of multidimensional matrices*]( ) 
-* **2000** - __`NeurIPS`__ [*Using the nyström method to speed up kernel machines*]( ) 
 * **2021** - __`ICML`__ [*Scalable optimal transport in high dimensions for graph distances, embedding alignment, and more*](http://arxiv.org/pdf/2107.06876v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gasteigerjo/lcn.git)
 * **2014** - __`arXiv`__ [*Hashing for similarity search: A survey*](http://arxiv.org/pdf/1408.2927v1) 
 * **2018** - __`arXiv`__ [*Sketching and clustering metric measure spaces*](http://arxiv.org/pdf/1801.00551v2) 
-* **2018** -  [*Fluid communities: A competitive, scalable and diverse community detection algorithm*](http://arxiv.org/pdf/1703.09307v3) 
-* **2022** - __`arXiv`__ [*Budget-constrained bounds for mini-batch estimation of optimal transport*]( ) 
 * **2021** -  [*Deep learning and optimal transport: learning from one another*]( ) 
-* **2020** - __`AISTATS`__ [*Learning with minibatch wasserstein: asymptotic and gradient properties*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/kilianFatras/minibatch_Wasserstein.git)
 * **2022** - __`AAAI`__ [*Efficient optimal transport algorithm by accelerated gradient descent*](http://arxiv.org/pdf/2104.05802v2) 
 * **2016** - __`SIAM`__ [*A smoothed dual approach for variational wasserstein problems*](http://arxiv.org/pdf/1503.02533v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpeyre/2015-SIIMS-wasserstein-dual.git)
 * **2018** - __`ICLR`__ [*Large-scale optimal transport and mapping estimation*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mikigom/large-scale-OT-mapping-TF.git)
@@ -327,7 +329,6 @@ Sections:
 * **2019** - __`NeurIPS`__ [*Deep equilibrium models*](http://arxiv.org/pdf/1909.01377v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/locuslab/deq.git)
 * **2021** - __`TPAMI`__ [*Deep declarative networks*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/anucvml/ddn.git)
 * **2020** - __`ECCV`__ [*Solving the blind perspective-n-point problem end-to-end with robust differentiable geometric optimization*](http://arxiv.org/pdf/2007.14628v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/dylan-campbell/bpnpnet.git)
-* **2020** - __`CVPR`__ [*Deepemd: Few-shot image classification with differentiable earth mover's distance and structured classifiers*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/icoz69/DeepEMD.git)
 * **2022** - __`AAAI`__ [*Exploiting problem structure in deep declarative networks: Two case studies*](http://arxiv.org/pdf/2202.12404v1) 
 * **2022** - __`NeurIPS`__ [*Efficient and modular implicit differentiation*](http://arxiv.org/pdf/2105.15183v5) 
 * **2019** - __`ICLR`__ [*Optimal control via neural networks: A convex approach*](http://arxiv.org/pdf/1805.11835v5)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/chennnnnyize-zz/Optimal-Control-via-Neural-Networks.git)
@@ -343,17 +344,13 @@ Sections:
 * **2020** - __`NeurIPS`__ [*Model fusion via optimal transport*](http://arxiv.org/pdf/1910.05653v5)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sidak/otfusion.git)
 * **2020** -  [*Federated learning: Challenges, methods, and future directions*](http://arxiv.org/pdf/1908.07873v1) 
 * **2023** - __`arXiv`__ [*Personalised federated learning on heterogeneous feature spaces*](http://arxiv.org/pdf/2301.11447v1) 
-* **2022** - __`arXiv`__ [*Optimal transport tools (ott): A jax toolbox for all things wasserstein*]( ) 
 * **2020** - __`NeurIPS`__ [*Fast geometric learning with symbolic matrices*]( ) 
 * **1992** -  [*Kantorovich-rubinstein norm and its application in the theory of lipschitz spaces*]( ) 
 * **2010** - __`ICCV`__ [*Adapting visual category models to new domains*]( ) 
 * **2021** - __`NeurIPS`__ [*Measuring generalization with optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/chingyaoc/kV-Margin.git)
-* **2020** - __`NeurIPS`__ [*Co-optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/COOT.git)
 * **2020** -  [*A comprehensive survey on transfer learning*](http://arxiv.org/pdf/1911.02685v3) 
 * **2021** - __`NeurIPS`__ [*Scalable diverse model selection for accessible transfer learning*](http://arxiv.org/pdf/2111.06977v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/dbolya/parc.git)
-* **2019** - __`ICCV`__ [*Transferability and hardness of supervised classification tasks*](http://arxiv.org/pdf/1908.08142v1) 
 * **2019** - __`ICIP`__ [*An information-theoretic approach to transferability in task transfer learning*](http://arxiv.org/pdf/2212.10082v1) 
-* **2020** - __`ICML`__ [*Leep: A new measure to evaluate transferability of learned representations*](http://arxiv.org/pdf/2002.12462v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/CrimsonRadiator/LEEP-Pytorch.git)
 * **2018** - __`CVPR`__ [*Taskonomy: Disentangling task transfer learning*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/StanfordVL/taskonomy.git)
 * **2009** -  [*Domain adaptation: Learning bounds and algorithms*]( ) 
 * **2018** - __`ICLR`__ [*Generalizing across domains via cross-gradient training*](http://arxiv.org/pdf/1804.10745v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpascualg/CrossGrad.git)
