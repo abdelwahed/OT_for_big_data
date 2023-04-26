@@ -24,16 +24,16 @@ Overview
 - [Review Paper](#Review-Paper)
 
 Sections:
-- [Background](###Background)
+- [Background](##Background)
 - Formulations  
-  - [Regularized OT](###Regularized-OT)
-  - [Sinkhorn](###Sinkhorn)
-  - [Unblanaced & Partial OT](###unblanaced-and-partial-OT)
+  - [Regularized OT](##Regularized-OT)
+  - [Sinkhorn](##Sinkhorn)
+  - [Unblanaced & Partial OT](##unblanaced-and-partial-OT)
 - Scaling OT
   - [Measures]()
 - Applications
-  - [Domain Adaptation](###domain-adaptation)
-  - [Generative Modeling](###generative-models)
+  - [Domain Adaptation](##domain-adaptation)
+  - [Generative Modeling](##generative-models)
   - [Others]()
 
 
