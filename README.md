@@ -178,7 +178,7 @@ Sections:
 ## Scalable OT
 
 <div align="center">
-    <img class="aligncenter" style="width:500px" src="imgs/scaling_ot.jpg"/>
+    <img class="aligncenter" style="width:800px" src="imgs/scaling_ot.jpg"/>
 </div>
 
 
