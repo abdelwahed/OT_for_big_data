@@ -5,8 +5,6 @@
     <img class="aligncenter" style="width:500px" src="imgs/signature.png"/>
 </div>
 
-
- A curated list of research works and resources on optimal transport in machine learning. Check the [related survey]() for introduction to the topic and a review of the recent advances .
 A curated list of research works and resources on optimal transport in machine learning. Check the [related survey](#Paper) for introduction to the topic and a review of the recent advances .
 
 ---
