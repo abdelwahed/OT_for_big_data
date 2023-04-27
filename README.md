@@ -309,6 +309,8 @@ Sections:
   * **2019** - __`ICML`__ [*Optimal transport for structured data with application on graphs*](http://arxiv.org/pdf/1805.09114v3)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tvayer/FGW.git)
   * **2019** - __`ICML`__ [*Gromov-wasserstein learning for graph matching and node embedding*](http://arxiv.org/pdf/1901.06003v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/HongtengXu/gwl.git)
 
+---
+
 ### Software and Tools
 * **2022** - __`arXiv`__ [*Optimal transport tools (ott): A jax toolbox for all things wasserstein*]( )
 * **2021** - __`JMLR`__ [*Pot: Python optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/POT.git)
