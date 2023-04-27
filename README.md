@@ -298,11 +298,11 @@ Sections:
 * **2015** - __`ICML`__ [*From word embeddings to document distances*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mkusner/wmd.git) **<font color="pink"> Document Matching</font>**
 * **2018** - __`TPAMI`__ [*Visual permutation learning*](https://arxiv.org/pdf/1704.02729.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/rfsantacruz/deep-perm-net.git) **<font color="pink">Permutation Learning</font>**
 
-* Correspondance & Matching:
+* **Correspondance & Matching:**
   * **2021** - __`CVPR`__ [*Loftr: Detector-free local feature matching with transformers*](http://arxiv.org/pdf/2104.00680v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/zju3dv/LoFTR.git)
   * **2020** - __`CVPR`__ [*Superglue: Learning feature matching with graph neural networks*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/magicleap/SuperGluePretrainedNetwork.git)
   * **2020** - __`arXiv`__ [*Learning 3d-3d correspondences for one-shot partial-to-partial registration*]( )
-* Graphs:
+* **Graphs:**
   * **2022** - __`ICML`__ [*Learning to predict graphs with fused gromov-wasserstein barycenters*](http://arxiv.org/pdf/2202.03813v3)
   * **2020** - __`NeurIPS`__ [*Copt: Coordinated optimal transport on graphs*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/twistedcubic/copt.git)
   * **2020** - __`ICLR`__ [*Deep graph matching consensus*](http://arxiv.org/pdf/2001.09621v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/rusty1s/deep-graph-matching-consensus.git)
