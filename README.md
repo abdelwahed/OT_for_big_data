@@ -210,9 +210,9 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2019** - __`NeurIPS`__ [*Subspace detours: Building transport plans that are optimal on subspace projections*](http://arxiv.org/pdf/1905.10099v4) 
 * **2019** - __`NeurIPS`__ [*Large-scale optimal transport map estimation using projection pursuit*](http://arxiv.org/pdf/2106.05838v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/ChengzijunAixiaoli/PPMM.git)
 
-### Cost & Kernel Approximation
-* **2019** - __`SIAM`__ [*Stabilized sparse scaling algorithms for entropy regularized transport problems*](http://arxiv.org/pdf/1610.06519v2) 
+### Cost  and Kernel Approximation
 * **2021** - __`ICML`__ [*Scalable optimal transport in high dimensions for graph distances, embedding alignment, and more*](http://arxiv.org/pdf/2107.06876v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gasteigerjo/lcn.git)
+* **2019** - __`SIAM`__ [*Stabilized sparse scaling algorithms for entropy regularized transport problems*](http://arxiv.org/pdf/1610.06519v2) 
 
 ### Plan Structuring 
 * **2022** - __`NeurIPS`__ [*Low-rank optimal transport: Approximation, statistics and debiasing*]( ) 
@@ -239,7 +239,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2022** - __`JMIV`__ [*Learning to generate wasserstein barycenters*](http://arxiv.org/pdf/2102.12178v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/jlacombe/learning-to-generate-wasserstein-barycenters.git)
 * **2022** - __`NeurIPS`__ [*Supervised training of conditional monge maps*](http://arxiv.org/pdf/2206.14262v2) 
 * **2022** - __`NeurIPS`__ [*Wasserstein iterative networks for barycenter estimation*](http://arxiv.org/pdf/2201.12245v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/iamalexkorotin/WassersteinIterativeNetworks.git)
-* **2022** -  [*Kantorovich strikes back! wasserstein gans are not optimal transport?*]( ) 
+* **2022** -  [*Kantorovich strikes back! wasserstein gans are not optimal transport?*](https://openreview.net/pdf?id=VtEEpi-dGlt) 
 * **2022** - __`AAAI`__ [*Efficient optimal transport algorithm by accelerated gradient descent*](http://arxiv.org/pdf/2104.05802v2) 
 * **2022** - __`AAAI`__ [*Exploiting problem structure in deep declarative networks: Two case studies*](http://arxiv.org/pdf/2202.12404v1) 
 * **2022** - __`arXiv`__ [*Meta optimal transport*](http://arxiv.org/pdf/2206.05262v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/facebookresearch/meta-ot.git)
@@ -258,18 +258,18 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 ## Applications
 
 ### Generative Models
-* **2022** - __`NeurIPS`__ [*Score-based Generative Modeling Secretly Minimizes the Wasserstein Distance*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/UW-Madison-Lee-Lab/score-wasserstein.git)
+* **2022** - __`NeurIPS`__ [*Score-based Generative Modeling Secretly Minimizes the Wasserstein Distance*](https://arxiv.org/pdf/2212.06359.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/UW-Madison-Lee-Lab/score-wasserstein.git)
 * **2021** - __`NeurIPS`__ [*Maximum likelihood training of score-based diffusion models*](http://arxiv.org/pdf/2101.09258v4)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/yang-song/score_flow.git)
-* **2021** - __`NeurIPS`__ [*Diffusion schrödinger bridge with applications to score-based generative modeling*]( )
-* **2021** - __`ICLR`__ [*Distributional sliced-wasserstein and applications to generative modeling*]( ) 
+* **2021** - __`NeurIPS`__ [*Diffusion schrödinger bridge with applications to score-based generative modeling*](https://arxiv.org/pdf/2106.01357.pdf)
+* **2021** - __`ICLR`__ [*Distributional sliced-wasserstein and applications to generative modeling*](https://arxiv.org/pdf/2002.07367.pdf) 
 * **2021** - __`AAAI`__ [*Towards generalized implementation of wasserstein distance in gans*](https://ojs.aaai.org/index.php/AAAI/article/view/17258) 
 * **2020** - __`NeurIPS`__ [*Asymptotic guarantees for generative modeling based on the smooth wasserstein distance*](http://arxiv.org/pdf/2002.01012v4) 
 * **2020** - __`ICLR`__ [*Wasserstein-2 generative networks*](http://arxiv.org/pdf/1909.13082v4)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/iamalexkorotin/Wasserstein2GenerativeNetworks.git)
 * **2019** - __`ICML`__ [*Learning generative models across incomparable spaces*](http://arxiv.org/pdf/1905.05461v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/bunnech/gwgan.git)
 * **2018** - __`AISTATS`__ [*Learning generative models with sinkhorn divergences*](http://arxiv.org/pdf/1706.00292v3) 
-* **2017** - __`ICML`__ [*Wasserstein generative adversarial networks*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/luslab/arshamg-scrnaseq-wgan.git)
+* **2017** - __`ICML`__ [*Wasserstein generative adversarial networks*](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/luslab/arshamg-scrnaseq-wgan.git)
 * **2017** -  [*From optimal transport to generative modeling: the vegan cookbook*](http://arxiv.org/pdf/1705.07642v1) 
-* **2017** - __`NeurIPS`__ [*Improved training of wasserstein gans*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/igul222/improved_wgan_training.git)
+* **2017** - __`NeurIPS`__ [*Improved training of wasserstein gans*](https://arxiv.org/pdf/1704.00028.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/igul222/improved_wgan_training.git)
 
 
 ### Domain Adaptation
@@ -278,13 +278,13 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2022** - __`IEEE TIP`__ [*Few-shot domain adaptation via mixup optimal transport*](https://ieeexplore.ieee.org/abstract/document/9733175/) 
 * **2021** - __`ICML`__ [*Unbalanced minibatch optimal transport; applications to domain adaptation*](http://arxiv.org/pdf/2103.03606v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/kilianFatras/JUMBOT.git)
 * **2021** - __`CVPR`__ [*Wasserstein contrastive representation distillation*](http://arxiv.org/pdf/2012.08674v2) 
-* **2021** - __`NeurIPS`__ [*Lifelong domain adaptation via consolidated internal distribution*]( ) 
-* **2021** - __`CVPR`__ [*OTCE: A transferability metric for cross-domain cross-task representations*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tanyang1231/OTCE_Transferability_CVPR21.git)
-* **2021** - __`ICCV`__ [*The right to talk: An audio-visual transformer approach*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/uark-cviu/Right2Talk.git)
+* **2021** - __`NeurIPS`__ [*Lifelong domain adaptation via consolidated internal distribution*](https://proceedings.neurips.cc/paper_files/paper/2021/file/5caf41d62364d5b41a893adc1a9dd5d4-Paper.pdf) 
+* **2021** - __`CVPR`__ [*OTCE: A transferability metric for cross-domain cross-task representations*](https://arxiv.org/pdf/2103.13843.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tanyang1231/OTCE_Transferability_CVPR21.git)
+* **2021** - __`ICCV`__ [*The right to talk: An audio-visual transformer approach*](https://openaccess.thecvf.com/content/ICCV2021/papers/Truong_The_Right_To_Talk_An_Audio-Visual_Transformer_Approach_ICCV_2021_paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/uark-cviu/Right2Talk.git)
 * **2021** - __`WACV`__  [*Zero-shot recognition via optimal transport*](http://arxiv.org/pdf/1910.09057v2)
-* **2020** - __`CVPR`__ [*Deepemd: Few-shot image classification with differentiable earth mover's distance and structured classifiers*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/icoz69/DeepEMD.git)
-* **2020** - __`ICML`__ [*Margin-aware adversarial domain adaptation with optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sofiendhouib/MADAOT.git)
-* **2020** - __`ECCV`__ [*Learning to generate novel domains for domain generalization*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mousecpn/L2A-OT.git)
+* **2020** - __`CVPR`__ [*Deepemd: Few-shot image classification with differentiable earth mover's distance and structured classifiers*](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DeepEMD_Few-Shot_Image_Classification_With_Differentiable_Earth_Movers_Distance_and_CVPR_2020_paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/icoz69/DeepEMD.git)
+* **2020** - __`ICML`__ [*Margin-aware adversarial domain adaptation with optimal transport*](http://proceedings.mlr.press/v119/dhouib20b/dhouib20b.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sofiendhouib/MADAOT.git)
+* **2020** - __`ECCV`__ [*Learning to generate novel domains for domain generalization*](https://arxiv.org/pdf/2007.03304.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mousecpn/L2A-OT.git)
 * **2020** - __`IJCAI`__ [*Joint partial optimal transport for open set domain adaptation.*](https://www.ijcai.org/proceedings/2020/0352.pdf) 
 * **2020** - __`BMVC`__  [*Weakly supervised cross-domain alignment with optimal transport*](http://arxiv.org/pdf/2008.06597v1) 
 * **2020** - __`ICCV`__ [*Transporting labels via hierarchical optimal transport for semi-supervised learning*](https://link.springer.com/chapter/10.1007/978-3-030-58548-8_30) 
@@ -306,20 +306,20 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2022** - __`CVPR`__ [*Unsupervised action segmentation by joint representation learning and online clustering*](http://arxiv.org/pdf/2105.13353v6) **<font color="pink"> Action Segmentation</font>**
 * **2021** - __`CVPR`__ [*Ota: Optimal transport assignment for object detection*](http://arxiv.org/pdf/2103.14259v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/Megvii-BaseDetection/OTA.git) **<font color="pink"> Object Detection</fornt>**
 * **2021** - __`ICCV`__ [*Point-set distances for learning representations of 3d point clouds*](http://arxiv.org/pdf/2102.04014v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/VinAIResearch/PointSWD.git) **<font color="pink"> Point Cloud</font>**
-* **2021** - __`CVPR`__ [*A generalized loss function for crowd counting and localization*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/jia-wan/GeneralizedLoss-Counting-Pytorch.git) **<font color="pink"> Crowd Counting </font>** 
+* **2021** - __`CVPR`__ [*A generalized loss function for crowd counting and localization*](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr21-uot.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/jia-wan/GeneralizedLoss-Counting-Pytorch.git) **<font color="pink"> Crowd Counting </font>** 
 * **2021** - __`WACV`__ [*Augmented self-labeling for source-free unsupervised domain adaptation*](https://openreview.net/forum?id=c_XaCsX3gtA) **<font color="pink"> Self Labelling</font>** 
-* **2021** - __`NeurIPS`__ [*Measuring generalization with optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/chingyaoc/kV-Margin.git) **<font color="pink"> Generalization in ML </font>** 
+* **2021** - __`NeurIPS`__ [*Measuring generalization with optimal transport*](https://arxiv.org/pdf/2106.03314.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/chingyaoc/kV-Margin.git) **<font color="pink"> Generalization in ML </font>** 
 * **2020** - __`NeurIPS`__ [*Model fusion via optimal transport*](http://arxiv.org/pdf/1910.05653v5)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sidak/otfusion.git) **<font color="pink"> Model Fusion</font>**
 * **2020** - __`ECCV`__ [*Solving the blind perspective-n-point problem end-to-end with robust differentiable geometric optimization*](http://arxiv.org/pdf/2007.14628v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/dylan-campbell/bpnpnet.git) **<font color="pink">PnP problem </font>**
-* **2019** - __`ICLR`__ [*Self-labelling via simultaneous clustering and representation learning*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/yukimasano/self-label.git) **<font color="pink"> Self Labelling</font>**
+* **2019** - __`ICLR`__ [*Self-labelling via simultaneous clustering and representation learning*](https://arxiv.org/pdf/1911.05371.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/yukimasano/self-label.git) **<font color="pink"> Self Labelling</font>**
 * **2019** - __`ICML`__ [*Obtaining fairness using optimal transport theory*](http://arxiv.org/pdf/1806.03195v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/AugustinCombes/optimal-transport-fairness.git) **<font color="pink"> Fairness in ML</font>**
 * **2019** - __`ICLR`__ [*Learning embeddings into entropic wasserstein spaces*](http://arxiv.org/pdf/1905.03329v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gabsens/Learning-Embeddings-into-Entropic-Wasserstein-Spaces-ENSAE.git) **<font color="pink">Embedding </font>** 
-* **2015** - __`ICML`__ [*From word embeddings to document distances*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mkusner/wmd.git) **<font color="pink"> Document Matching</font>**
+* **2015** - __`ICML`__ [*From word embeddings to document distances*](http://proceedings.mlr.press/v37/kusnerb15.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mkusner/wmd.git) **<font color="pink"> Document Matching</font>**
 * **2018** - __`TPAMI`__ [*Visual permutation learning*](https://arxiv.org/pdf/1704.02729.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/rfsantacruz/deep-perm-net.git) **<font color="pink">Permutation Learning</font>**
 
 * **Correspondance & Matching:**
   * **2021** - __`CVPR`__ [*Loftr: Detector-free local feature matching with transformers*](http://arxiv.org/pdf/2104.00680v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/zju3dv/LoFTR.git)
-  * **2020** - __`CVPR`__ [*Superglue: Learning feature matching with graph neural networks*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/magicleap/SuperGluePretrainedNetwork.git)
+  * **2020** - __`CVPR`__ [*Superglue: Learning feature matching with graph neural networks*](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/magicleap/SuperGluePretrainedNetwork.git)
   * **2020** - __`arXiv`__ [*Learning 3d-3d correspondences for one-shot partial-to-partial registration*]( )
 * **Graphs:**
   * **2022** - __`ICML`__ [*Learning to predict graphs with fused gromov-wasserstein barycenters*](http://arxiv.org/pdf/2202.03813v3)
