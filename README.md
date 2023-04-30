@@ -323,7 +323,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
   * **2020** - __`arXiv`__ [*Learning 3d-3d correspondences for one-shot partial-to-partial registration*]( )
 * **Graphs:**
   * **2022** - __`ICML`__ [*Learning to predict graphs with fused gromov-wasserstein barycenters*](http://arxiv.org/pdf/2202.03813v3)
-  * **2020** - __`NeurIPS`__ [*Copt: Coordinated optimal transport on graphs*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/twistedcubic/copt.git)
+  * **2020** - __`NeurIPS`__ [*Copt: Coordinated optimal transport on graphs*](https://proceedings.neurips.cc/paper/2020/file/e0640c93b05097a9380870aa06aa0df4-Paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/twistedcubic/copt.git)
   * **2020** - __`ICLR`__ [*Deep graph matching consensus*](http://arxiv.org/pdf/2001.09621v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/rusty1s/deep-graph-matching-consensus.git)
   * **2019** - __`ICML`__ [*Optimal transport for structured data with application on graphs*](http://arxiv.org/pdf/1805.09114v3)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tvayer/FGW.git)
   * **2019** - __`ICML`__ [*Gromov-wasserstein learning for graph matching and node embedding*](http://arxiv.org/pdf/1901.06003v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/HongtengXu/gwl.git)
@@ -331,9 +331,9 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 ---
 
 ### Software and Tools
-* **2022** - __`arXiv`__ [*Optimal transport tools (ott): A jax toolbox for all things wasserstein*]( )
-* **2021** - __`JMLR`__ [*Pot: Python optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/POT.git)
-* **2020** - __`NeurIPS`__ [*Fast geometric learning with symbolic matrices*](https://proceedings.neurips.cc/paper/2020/file/a6292668b36ef412fa3c4102d1311a62-Paper.pdf) 
+* **2022** - __`arXiv`__ [*Optimal transport tools (ott): A jax toolbox for all things wasserstein*](https://arxiv.org/pdf/2201.12324.pdf) <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/ott-jax/ott)
+* **2021** - __`JMLR`__ [*Pot: Python optimal transport*](https://www.jmlr.org/papers/volume22/20-451/20-451.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/POT.git)
+* **2020** - __`NeurIPS`__ [*Fast geometric learning with symbolic matrices*](https://proceedings.neurips.cc/paper/2020/file/a6292668b36ef412fa3c4102d1311a62-Paper.pdf) <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://www.kernel-operations.io/keops/index.html)
 
 
 
