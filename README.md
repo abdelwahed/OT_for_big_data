@@ -195,7 +195,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 ## Scaling OT
 
 <div align="center">
-    <img class="aligncenter" style="width:900px" src="imgs/scaling_ot.jpg"/>
+    <img class="aligncenter" style="width:900px" src="imgs/scaling_ot.png"/>
 </div>
 
 
