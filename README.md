@@ -58,12 +58,12 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 
 
 ### Background 
-* **2021** -  [*Topics in optimal transportation*]( ) 
 * **2021** - __`SIAM`__ [*Stochastic control liaisons: Richard sinkhorn meets gaspard monge on a schrodinger bridge*](http://arxiv.org/pdf/2005.10963v3)
-* **2019** -  [*Computational optimal transport: With applications to data science*]( )
-* **2015** -  [*Optimal transport for applied mathematicians: calculus of variations, pdes, and modeling*]( ) 
-* **2009** -  [*Optimal transport: old and new*]( ) 
-* **2006** -  [*On a problem of monge*]( ) 
+* **2019** - <img src="/imgs/txtbook.png" width="20" height="20"/> [*Computational optimal transport: With applications to data science*](https://arxiv.org/pdf/1803.00567.pdf)
+* **2015** - <img src="/imgs/txtbook.png" width="20" height="20"/> [*Optimal transport for applied mathematicians: calculus of variations, PDEs, and modeling*](http://math.univ-lyon1.fr/~santambrogio/OTAM-cvgmt.pdf) 
+* **2009** - <img src="/imgs/txtbook.png" width="20" height="20"/> [*Optimal transport: old and new*](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf) 
+* **2093** - <img src="/imgs/txtbook.png" width="20" height="20"/> [*Topics in optimal transportation*](https://www.math.ucla.edu/~wgangbo/Cedric-Villani.pdf)
+* **2006** -  [*On a problem of monge*](https://link.springer.com/article/10.1007/s10958-006-0050-9) 
 
 
 ### Regularized OT
