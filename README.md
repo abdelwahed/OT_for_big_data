@@ -68,16 +68,16 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 
 ### Regularized OT
 * **2023** - __`CoRL`__ [*Watch and match: Supercharging imitation with regularized optimal transport*](http://arxiv.org/pdf/2206.15469v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/siddhanthaldar/ROT.git)
-* **2022** -  [*Entropy-regularized 2-wasserstein distance between gaussian measures*]( ) 
+* **2022** -  [*Entropy-regularized 2-wasserstein distance between gaussian measures*](https://link.springer.com/content/pdf/10.1007/s41884-021-00052-8.pdf) 
 * **2021** - __`ICDM`__ [*A regularized wasserstein framework for graph kernels*](http://arxiv.org/pdf/2110.02554v2) 
-* **2020** - __`arXiv`__ [*MMD-regularized Unbalanced Optimal Transport*]( ) 
+* **2020** - __`arXiv`__ [*MMD-regularized Unbalanced Optimal Transport*](https://arxiv.org/pdf/2011.05001.pdf) 
 * **2020** - __`ICML`__ [*Regularized optimal transport is ground cost adversarial*](http://arxiv.org/pdf/2002.03967v3) 
 * **2020** - __`SIAM`__ [*Empirical regularized optimal transport: Statistical theory and applications*](http://arxiv.org/pdf/1810.09880v3) 
-* **2019** -  [*Quantum entropic regularization of matrix-valued optimal transport*]( ) 
+* **2019** -  [*Quantum entropic regularization of matrix-valued optimal transport*](https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics/article/quantum-entropic-regularization-of-matrixvalued-optimal-transport/13673C87C2390AE97914DED32DD5178B) 
 * **2019** - __`SIAM`__ [*Stabilized sparse scaling algorithms for entropy regularized transport problems*](http://arxiv.org/pdf/1610.06519v2) 
-* **2018** - __`SIAM`__ [*Semidual regularized optimal transport*]( ) 
+* **2018** - __`SIAM`__ [*Semidual regularized optimal transport*](https://arxiv.org/pdf/1811.05527.pdf) 
 * **2018** - __`AISTATS`__ [*Smooth and sparse optimal transport*](http://arxiv.org/pdf/1710.06276v2) 
-* **2014** - __`NeurIPS`__ [*Optimal transport with laplacian regularization*]( ) 
+* **2014** - __`NeurIPS`__ [*Optimal transport with laplacian regularization*](https://remi.flamary.com/biblio/flamary2014optlaplace.pdf) 
 * **2014** - __`SIAM`__ [*Regularized discrete optimal transport*](http://arxiv.org/pdf/1307.5551v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpeyre/2013-SIIMS-regularized-ot.git)
 
 
@@ -89,18 +89,18 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2020** - __`NeurIPS`__ [*Faster wasserstein distance estimation with the sinkhorn divergence*](http://arxiv.org/pdf/2006.08172v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/leoHeidel/OT-numerics.git)
 * **2020** - __`ICML`__ [*On unbalanced optimal transport: An analysis of sinkhorn algorithm*](http://arxiv.org/pdf/2002.03293v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/lntk/uot.git)
 * **2020** - __`NeurIPS`__ [*Linear time sinkhorn divergences using positive features*](http://arxiv.org/pdf/2006.07057v3) 
-* **2019** - __`NeurIPS`__ [*Massively scalable sinkhorn distances via the nyström method*]( ) 
+* **2019** - __`NeurIPS`__ [*Massively scalable sinkhorn distances via the nyström method*](https://openreview.net/pdf?id=H1gT_NBg8B) 
 * **2019** - __`AISTATS`__ [*Interpolating between optimal transport and mmd using sinkhorn divergences*](http://arxiv.org/pdf/1810.08278v1) 
 * **2019** - __`arXiv`__ [*Sinkhorn divergences for unbalanced optimal transport*](http://arxiv.org/pdf/1910.12958v3) 
-* **2019** - __`AISTATS`__ [*Sample complexity of sinkhorn divergences*]( ) 
+* **2019** - __`AISTATS`__ [*Sample complexity of sinkhorn divergences*](http://proceedings.mlr.press/v89/genevay19a/genevay19a.pdf) 
 * **2019** - __`ICML`__ [*Wasserstein adversarial examples via projected sinkhorn iterations*](http://arxiv.org/pdf/1902.07906v2) 
-* **2019** - __`NeurIPS`__ [*Differentiable Ranking and Sorting using Optimal Transport*]( ) 
+* **2019** - __`NeurIPS`__ [*Differentiable Ranking and Sorting using Optimal Transport*](https://papers.nips.cc/paper_files/paper/2019/file/d8c24ca8f23c562a5600876ca2a550ce-Paper.pdf) 
 * **2018** - __`ICML`__ [*Computational optimal transport: Complexity by accelerated gradient descent is better than by sinkhorn’s algorithm*](http://arxiv.org/pdf/1802.04367v2) 
 * **2018** - __`ICLR`__ [*Learning latent permutations with gumbel-sinkhorn networks*](http://arxiv.org/pdf/1802.08665v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/HeddaCohenIndelman/Learning-Gumbel-Sinkhorn-Permutations-w-Pytorch.git)
 * **2017** - __`NeurIPS`__ [*Overrelaxed sinkhorn-knopp algorithm for regularized optimal transport*](http://arxiv.org/pdf/1711.01851v2) 
 * **2013** - __`NeurIPS`__ [*Sinkhorn Distances: Lightspeed Computation of Optimal Transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sakshigandhi/sinkhorn.git)
 * **2011** -  [*Ranking via sinkhorn propagation*](http://arxiv.org/pdf/1106.1925v2) 
-* **2008** - __`SIAM`__ [*The sinkhorn–knopp algorithm: convergence and applications*]( ) 
+* **2008** - __`SIAM`__ [*The sinkhorn–knopp algorithm: convergence and applications*](https://strathprints.strath.ac.uk/19685/1/skapp.pdf) 
 
 
 
@@ -115,20 +115,20 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 
 ### Structured OT
 * **2019** - __`NeurIPS`__ [*Hierarchical optimal transport for document representation*](http://arxiv.org/pdf/1906.10827v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/IBM/HOTT.git)
-* **2018** - __`AISTATS`__ [*Structured optimal transport*]( ) 
+* **2018** - __`AISTATS`__ [*Structured optimal transport*](https://dmelis.github.io/assets/publications/2018_structured_ot/AISTATS2018_Structured.pdf) 
 
 ### Dynamic OT & Schrodinger Bridge
 * **2023** - __`arXiv`__ [*Transport with support: Data-conditional diffusion bridges*](http://arxiv.org/pdf/2301.13636v1) 
 
 
 ### Multi-Marginal & Wasserstein Barycenter
-* **2021** - __`SIAM`__ [*Multimarginal optimal transport with a tree-structured cost and the schrodinger bridge problem*]( ) 
+* **2021** - __`SIAM`__ [*Multimarginal optimal transport with a tree-structured cost and the schrodinger bridge problem*](https://arxiv.org/pdf/2004.06909.pdf) 
 * **2020** - __`ICML`__ [*Debiased sinkhorn barycenters*](http://arxiv.org/pdf/2006.02575v1) 
 * **2020** - __`NeurIPS`__ [*Continuous regularized wasserstein barycenters*](http://arxiv.org/pdf/2008.12534v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/lingxiaoli94/CWB.git)
-* **2020** -  [*Multi-marginal optimal transport using partial information with applications in robust localization and sensor fusion*]( ) 
-* **2016** - __`ACM ToG`__ [*Wasserstein barycentric coordinates: Histogram regression using optimal transport*]( ) 
-* **2015** -  [*Sliced and radon wasserstein barycenters of measures*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpeyre/2014-JMIV-SlicedTransport.git)
-* **2011** - __`SIAM`__ [*Barycenters in the wasserstein space*]( ) 
+* **2020** -  [*Multi-marginal optimal transport using partial information with applications in robust localization and sensor fusion*](https://arxiv.org/pdf/2004.06909.pdf) 
+* **2016** - __`ACM ToG`__ [*Wasserstein barycentric coordinates: Histogram regression using optimal transport*](https://perso.liris.cnrs.fr/nicolas.bonneel/WassersteinBarycentricCoordinates/WBC_lowres.pdf) 
+* **2015** -  [*Sliced and radon wasserstein barycenters of measures*](https://link.springer.com/article/10.1007/s10851-014-0506-3)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpeyre/2014-JMIV-SlicedTransport.git)
+* **2011** - __`SIAM`__ [*Barycenters in the wasserstein space*](https://epubs.siam.org/doi/10.1137/100805741) 
 
 
 ### Tree Wasserstein
@@ -141,26 +141,26 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 
 
 ### Gromov Wasserstein
-* **2022** -  [*A brief survey on computational gromov-wasserstein distance*]( )
-* **2022** - __`arXiv`__ [*Gromov-wasserstein autoencoders*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/ganmodokix/gwae.git)
+* **2022** -  [*A brief survey on computational gromov-wasserstein distance*](https://www.sciencedirect.com/science/article/pii/S1877050922000874)
+* **2022** - __`arXiv`__ [*Gromov-wasserstein autoencoders*](https://arxiv.org/pdf/2209.07007.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/ganmodokix/gwae.git)
 * **2022** - __`ICML`__ [*Entropic gromov-wasserstein between gaussian distributions*](http://arxiv.org/pdf/2108.10961v3) 
 * **2021** - __`AISTATS`__ [*Aligning time series on incomparable spaces*](http://arxiv.org/pdf/2006.12648v2) 
-* **2021** - __`ECML PKDD`__ [*Quantized gromov-wasserstein*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/trneedham/QuantizedGromovWasserstein.git)
-* **2020** - __`ICML`__ [*Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data*]( ) 
+* **2021** - __`ECML PKDD`__ [*Quantized gromov-wasserstein*](https://arxiv.org/pdf/2104.02013.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/trneedham/QuantizedGromovWasserstein.git)
+* **2020** - __`ICML`__ [*Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data*](https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2) 
 * **2020** -  [*A contribution to optimal transport on incomparable spaces*](http://arxiv.org/pdf/2011.04447v1) 
 * **2019** - __`NeurIPS`__ [*Asymptotic guarantees for learning generative models with the sliced-wasserstein distance*](http://arxiv.org/pdf/1906.04516v2) 
 * **2019** - __`CVPR`__ [*Max-sliced wasserstein distance and its use for gans*](http://arxiv.org/pdf/1904.05877v1) 
-* **2018** - __`EMNLP`__ [*Gromov-wasserstein alignment of word embedding spaces*]( ) 
-* **2016** - __`ICML`__ [*Gromov-wasserstein averaging of kernel and distance matrices*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpeyre/2016-ICML-gromov-wasserstein.git)
+* **2018** - __`EMNLP`__ [*Gromov-wasserstein alignment of word embedding spaces*](https://arxiv.org/pdf/1809.00013.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/dmelis/otalign)
+* **2016** - __`ICML`__ [*Gromov-wasserstein averaging of kernel and distance matrices*](http://proceedings.mlr.press/v48/peyre16.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpeyre/2016-ICML-gromov-wasserstein.git)
 * **2011** -  [*Gromov–wasserstein distances and the metric approach to object matching*]( )
 
 
 ### Sliced Wasserstein
-* **2021** - __`NeurIPS`__ [*Pooling by sliced-wasserstein embedding*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/navid-naderi/PSWE.git)
+* **2021** - __`NeurIPS`__ [*Pooling by sliced-wasserstein embedding*](https://proceedings.neurips.cc/paper_files/paper/2021/file/1bc2029a8851ad344a8d503930dfd7f7-Paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/navid-naderi/PSWE.git)
 * **2021** - __`CVPR`__ [*A sliced wasserstein loss for neural texture synthesis*](http://arxiv.org/pdf/2006.07229v4)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tchambon/A-Sliced-Wasserstein-Loss-for-Neural-Texture-Synthesis.git)
 * **2021** - __`ICML`__ [*Differentially private sliced wasserstein distance*](http://arxiv.org/pdf/2107.01848v1) 
 * **2020** - __`NeurIPS`__ [*Statistical and topological properties of sliced probability divergences*](http://arxiv.org/pdf/2003.05783v3) 
-* **2019** - __`NeurIPS`__ [*Sliced gromov-wasserstein*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tvayer/SGW.git)
+* **2019** - __`NeurIPS`__ [*Sliced gromov-wasserstein*](https://arxiv.org/pdf/1905.10124.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/tvayer/SGW.git)
 * **2019** - __`NeurIPS`__ [*Generalized sliced wasserstein distances*](http://arxiv.org/pdf/1902.00434v1) 
 * **2016** - __`CVPR`__ [*Sliced wasserstein kernels for probability distributions*](http://arxiv.org/pdf/1511.03198v1) 
 
@@ -169,10 +169,10 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 ### Other formulations
 * **2023** - __`ECML PKDD`__ [*Feature-robust optimal transport for high-dimensional data*]( ) 
 * **2022** - __`ICML`__ [*Order constraints in optimal transport*](http://arxiv.org/pdf/2110.07275v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/IBM/otoc.git)
-* **2021** - __`ICML`__ [*Outlier-robust optimal transport*]( ) 
+* **2021** - __`ICML`__ [*Outlier-robust optimal transport*](https://arxiv.org/pdf/2012.07363.pdf) 
 * **2020** - __`AISTATS`__ [*Unsupervised hierarchy matching with optimal transport over hyperbolic spaces*](http://arxiv.org/pdf/1911.02536v2)
-* **2020** - __`NeurIPS`__ [*Co-optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/COOT.git)
-* **2017** - __`CVPR`__ [*Order-preserving wasserstein distance for sequence matching*]( ) 
+* **2020** - __`NeurIPS`__ [*Co-optimal transport*](https://proceedings.neurips.cc/paper/2020/file/cc384c68ad503482fb24e6d1e3b512ae-Paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/COOT.git)
+* **2017** - __`CVPR`__ [*Order-preserving wasserstein distance for sequence matching*](https://openaccess.thecvf.com/content_cvpr_2017/papers/Su_Order-Preserving_Wasserstein_Distance_CVPR_2017_paper.pdf) 
 
 
 ### Theoretical and Complexity
