@@ -68,7 +68,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 
 ### Regularized OT
 * **2023** - __`CoRL`__ [*Watch and match: Supercharging imitation with regularized optimal transport*](http://arxiv.org/pdf/2206.15469v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/siddhanthaldar/ROT.git)
-* **2022** -  [*Entropy-regularized 2-wasserstein distance between gaussian measures*](https://link.springer.com/content/pdf/10.1007/s41884-021-00052-8.pdf) 
+* **2022** - __`IG`__ [*Entropy-regularized 2-wasserstein distance between gaussian measures*](https://link.springer.com/content/pdf/10.1007/s41884-021-00052-8.pdf) 
 * **2021** - __`ICDM`__ [*A regularized wasserstein framework for graph kernels*](http://arxiv.org/pdf/2110.02554v2) 
 * **2020** - __`arXiv`__ [*MMD-regularized Unbalanced Optimal Transport*](https://arxiv.org/pdf/2011.05001.pdf) 
 * **2020** - __`ICML`__ [*Regularized optimal transport is ground cost adversarial*](http://arxiv.org/pdf/2002.03967v3) 
@@ -107,8 +107,8 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 
 ### Unblanaced and Partial OT
 * **2022** - __`arXiv`__ [*Unbalanced optimal transport, from theory to numerics*](http://arxiv.org/pdf/2211.08775v2) 
-* **2021** -  [*Unbalanced optimal transport in multi-camera tracking applications*]( ) 
-* **2021** - __`AAAI`__ [*Learning to count via unbalanced optimal transport*]( ) 
+* **2021** - __`ICPR`__ [*Unbalanced optimal transport in multi-camera tracking applications*](https://link.springer.com/chapter/10.1007/978-3-030-68821-9_30) 
+* **2021** - __`AAAI`__ [*Learning to count via unbalanced optimal transport*](https://ojs.aaai.org/index.php/AAAI/article/view/16332) 
 * **2020** - __`NeurIPS`__ [*Partial optimal tranport with applications on positive-unlabeled learning*]( ) 
 * **2020** - __`NeurIPS`__ [*Entropic optimal transport between unbalanced gaussian measures has a closed form*](http://arxiv.org/pdf/2006.02572v2) 
 * **2018** -  [*Unbalanced optimal transport: Dynamic and kantorovich formulations*](http://arxiv.org/pdf/1508.05216v3) 
@@ -171,6 +171,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2022** - __`ICML`__ [*Order constraints in optimal transport*](http://arxiv.org/pdf/2110.07275v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/IBM/otoc.git)
 * **2021** - __`ICML`__ [*Outlier-robust optimal transport*](https://arxiv.org/pdf/2012.07363.pdf) 
 * **2020** - __`AISTATS`__ [*Unsupervised hierarchy matching with optimal transport over hyperbolic spaces*](http://arxiv.org/pdf/1911.02536v2)
+* **2020** - __`ICML`__ [*A swiss army knife for minimax optimal transport*](http://proceedings.mlr.press/v119/dhouib20a/dhouib20a.pdf )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sofiendhouib/minimax_OT.git)
 * **2020** - __`NeurIPS`__ [*Co-optimal transport*](https://proceedings.neurips.cc/paper/2020/file/cc384c68ad503482fb24e6d1e3b512ae-Paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/PythonOT/COOT.git)
 * **2017** - __`CVPR`__ [*Order-preserving wasserstein distance for sequence matching*](https://openaccess.thecvf.com/content_cvpr_2017/papers/Su_Order-Preserving_Wasserstein_Distance_CVPR_2017_paper.pdf) 
 
@@ -181,13 +182,15 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2021** - __`NeurIPS`__ [*Rates of estimation of optimal transport maps using plug-in estimators via barycentric projections*](http://arxiv.org/pdf/2107.01718v1) 
 * **2021** - __`arXiv`__ [*Plugin estimation of smooth optimal transport maps*](http://arxiv.org/pdf/2107.12364v2) 
 * **2021** - __`arXiv`__ [*A short proof on the rate of convergence of the empirical measure for the wasserstein distance*](http://arxiv.org/pdf/2101.08126v1) 
-* **2021** - __`NeurIPS`__ [*Averaging on the bures-wasserstein manifold: dimension-free convergence of gradient descent*]( )
+* **2021** - __`NeurIPS`__ [*Averaging on the bures-wasserstein manifold: dimension-free convergence of gradient descent*](https://arxiv.org/pdf/2106.08502.pdf)
 * **2021** - __`NeurIPS`__ [*Dimensionality reduction for wasserstein barycenter*](http://arxiv.org/pdf/2110.08991v2)
 * **2020** -  [*Convergence and concentration of empirical measures under wasserstein distance in unbounded functional spaces*](http://arxiv.org/pdf/1804.10556v2) 
+* **2020** - __`arXiv`__ [*A study of performance of optimal transport*](https://arxiv.org/pdf/2005.01182.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/twistedcubic/fast_ot.git)
 * **2020** - __`arXiv`__ [*The statistical effect of entropic regularization in optimal transportation*](http://arxiv.org/pdf/2006.05199v2) 
 * **2019** -  [*Sharp asymptotic and finite-sample rates of convergence of empirical measures in wasserstein distance*](http://arxiv.org/pdf/1707.00087v1) 
 * **2019** - __`arXiv`__ [*Strong equivalence between metrics of wasserstein type*](http://arxiv.org/pdf/1912.08247v3) 
-* **2018** -  [*Optimal entropy-transport problems and a new hellinger–kantorovich distance between positive measures*]( ) 
+* **2018** -  [*Optimal entropy-transport problems and a new hellinger–kantorovich distance between positive measures*](https://arxiv.org/pdf/1508.07941.pdf) 
+* **2016** - __`SIAM`__ [*A smoothed dual approach for variational wasserstein problems*](http://arxiv.org/pdf/1503.02533v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpeyre/2015-SIIMS-wasserstein-dual.git)
 
 ---
 
@@ -205,7 +208,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2021** - __`UAI`__ [*Improving approximate optimal transport distances using quantization*](http://arxiv.org/pdf/2102.12731v2) 
 * **2021** - __`MDPI-A`__[*Subspace detours meet gromov–wasserstein*](http://arxiv.org/pdf/2110.10932v1)
 * **2021** - __`ICML`__ [*Projection robust wasserstein barycenters*](http://arxiv.org/pdf/2102.03390v4) 
-* **2020** - __`AISTATS`__ [*Gaussian-smoothed optimal transport: Metric structure and statistical efficiency*]( ) 
+* **2020** - __`AISTATS`__ [*Gaussian-smoothed optimal transport: Metric structure and statistical efficiency*](http://proceedings.mlr.press/v108/goldfeld20a/goldfeld20a.pdf) 
 * **2019** - __`ICML`__ [*Subspace robust wasserstein distances*](http://arxiv.org/pdf/1901.08949v5)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/francoispierrepaty/SubspaceRobustWasserstein.git)
 * **2019** - __`NeurIPS`__ [*Subspace detours: Building transport plans that are optimal on subspace projections*](http://arxiv.org/pdf/1905.10099v4) 
 * **2019** - __`NeurIPS`__ [*Large-scale optimal transport map estimation using projection pursuit*](http://arxiv.org/pdf/2106.05838v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/ChengzijunAixiaoli/PPMM.git)
@@ -215,7 +218,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2019** - __`SIAM`__ [*Stabilized sparse scaling algorithms for entropy regularized transport problems*](http://arxiv.org/pdf/1610.06519v2) 
 
 ### Plan Structuring 
-* **2022** - __`NeurIPS`__ [*Low-rank optimal transport: Approximation, statistics and debiasing*]( ) 
+* **2022** - __`NeurIPS`__ [*Low-rank optimal transport: Approximation, statistics and debiasing*](https://arxiv.org/pdf/2205.12365.pdf) 
 * **2022** - __`ICML`__ [*Linear-time gromov wasserstein distances using low rank couplings and costs*](http://arxiv.org/pdf/2106.01128v2)
 * **2021** - __`arXiv`__ [*Approximating optimal transport via low-rank and sparse factorization*](http://arxiv.org/pdf/2111.06546v1) 
 * **2021** -  [*Making transport more robust and interpretable by moving data through a small number of anchor points*](http://arxiv.org/pdf/2012.11589v3)
@@ -226,7 +229,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2022** - __`CVPR`__ [*Computing wasserstein-p distance between images with linear cost*](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Computing_Wasserstein-p_Distance_Between_Images_With_Linear_Cost_CVPR_2022_paper.pdf )
 * **2021** -  [*Deep learning and optimal transport: learning from one another*]( ) 
 * **2020** - __`arXiv`__ [*Mrec: a fast and versatile framework for aligning and matching point clouds with applications to single cell molecular data*](http://arxiv.org/pdf/2001.01666v3)
-* **2020** - __`AISTATS`__ [*Learning with minibatch wasserstein: asymptotic and gradient properties*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/kilianFatras/minibatch_Wasserstein.git)
+* **2020** - __`AISTATS`__ [*Learning with minibatch wasserstein: asymptotic and gradient properties*](https://arxiv.org/pdf/1910.04091.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/kilianFatras/minibatch_Wasserstein.git)
 * **2019** - __`JMLR`__ [*Optimal transport: Fast probabilistic approximation with exact solvers.*](http://arxiv.org/pdf/1802.05570v4) 
 * **2019** - __`NeurIPS`__ [*Scalable gromov-wasserstein learning for graph partitioning and matching*](http://arxiv.org/pdf/1905.07645v5)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/HongtengXu/s-gwl.git)
 * **2017** - __`JMLR`__ [*Multiscale strategies for computing optimal transport*](http://arxiv.org/pdf/1708.02469v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/KitwareMedicalPublications/2017-JMLR-OptimalTransport.git)
@@ -249,9 +252,9 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2020** - __`ECAI`__ [*Speeding up word mover’s distance and its variants via properties of distances between embeddings*](http://arxiv.org/pdf/1912.00509v2)
 * **2020** - __`UAI`__ [*A fast proximal point method for computing exact wasserstein distance*](http://arxiv.org/pdf/1802.04307v3)
 * **2020** - __`ICML`__ [*Optimal transport mapping via input convex neural networks*](http://arxiv.org/pdf/1908.10962v2)
-* **2018** - __`ICLR`__ [*Large-scale optimal transport and mapping estimation*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mikigom/large-scale-OT-mapping-TF.git)
+* **2018** - __`ICLR`__ [*Large-scale optimal transport and mapping estimation*](https://arxiv.org/pdf/1711.02283.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/mikigom/large-scale-OT-mapping-TF.git)
 * **2017** -  [*Linear-complexity relaxed word mover's distance with gpu acceleration*](http://arxiv.org/pdf/1711.07227v1)
-* **2016** - __`NeurIPS`__ [*Stochastic optimization for large-scale optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/kilianFatras/stochastic_opt_OT.git)
+* **2016** - __`NeurIPS`__ [*Stochastic optimization for large-scale optimal transport*](https://arxiv.org/pdf/1605.08527.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/kilianFatras/stochastic_opt_OT.git)
 
 ---
 
@@ -309,6 +312,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **2021** - __`CVPR`__ [*A generalized loss function for crowd counting and localization*](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr21-uot.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/jia-wan/GeneralizedLoss-Counting-Pytorch.git) **<font color="pink"> Crowd Counting </font>** 
 * **2021** - __`WACV`__ [*Augmented self-labeling for source-free unsupervised domain adaptation*](https://openreview.net/forum?id=c_XaCsX3gtA) **<font color="pink"> Self Labelling</font>** 
 * **2021** - __`NeurIPS`__ [*Measuring generalization with optimal transport*](https://arxiv.org/pdf/2106.03314.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/chingyaoc/kV-Margin.git) **<font color="pink"> Generalization in ML </font>** 
+* **2021** - __`ICLR`__ [*Convex potential flows: Universal probability distributions with optimal transport and convex optimization*](http://arxiv.org/pdf/2012.05942v2) **<font color="pink"> Normalizing Flow </font>** 
 * **2020** - __`NeurIPS`__ [*Model fusion via optimal transport*](http://arxiv.org/pdf/1910.05653v5)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sidak/otfusion.git) **<font color="pink"> Model Fusion</font>**
 * **2020** - __`ECCV`__ [*Solving the blind perspective-n-point problem end-to-end with robust differentiable geometric optimization*](http://arxiv.org/pdf/2007.14628v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/dylan-campbell/bpnpnet.git) **<font color="pink">PnP problem </font>**
 * **2019** - __`ICLR`__ [*Self-labelling via simultaneous clustering and representation learning*](https://arxiv.org/pdf/1911.05371.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/yukimasano/self-label.git) **<font color="pink"> Self Labelling</font>**
@@ -320,7 +324,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 * **Correspondance & Matching:**
   * **2021** - __`CVPR`__ [*Loftr: Detector-free local feature matching with transformers*](http://arxiv.org/pdf/2104.00680v1)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/zju3dv/LoFTR.git)
   * **2020** - __`CVPR`__ [*Superglue: Learning feature matching with graph neural networks*](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/magicleap/SuperGluePretrainedNetwork.git)
-  * **2020** - __`arXiv`__ [*Learning 3d-3d correspondences for one-shot partial-to-partial registration*]( )
+  * **2020** - __`arXiv`__ [*Learning 3d-3d correspondences for one-shot partial-to-partial registration*](https://arxiv.org/pdf/2006.04523.pdf)
 * **Graphs:**
   * **2022** - __`ICML`__ [*Learning to predict graphs with fused gromov-wasserstein barycenters*](http://arxiv.org/pdf/2202.03813v3)
   * **2020** - __`NeurIPS`__ [*Copt: Coordinated optimal transport on graphs*](https://proceedings.neurips.cc/paper/2020/file/e0640c93b05097a9380870aa06aa0df4-Paper.pdf)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/twistedcubic/copt.git)
@@ -337,12 +341,3 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 
 
 
----
-
-### pending organization
-
-* **2021** - __`ICLR`__ [*Convex potential flows: Universal probability distributions with optimal transport and convex optimization*](http://arxiv.org/pdf/2012.05942v2) 
-* **2020** - __`ICML`__ [*A swiss army knife for minimax optimal transport*](http://proceedings.mlr.press/v119/dhouib20a/dhouib20a.pdf )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/sofiendhouib/minimax_OT.git)
-* **2016** - __`SIAM`__ [*A smoothed dual approach for variational wasserstein problems*](http://arxiv.org/pdf/1503.02533v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/gpeyre/2015-SIIMS-wasserstein-dual.git)
-* **2021** - __`arXiv`__ [*Convex transport potential selection with semi-dual criterion*]( ) 
-* **2020** - __`arXiv`__ [*A study of performance of optimal transport*]( )  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/twistedcubic/fast_ot.git)
