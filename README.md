@@ -1,11 +1,11 @@
 # Optimal Transport in the Big Data Era
 
+A curated list of research works and resources on optimal transport in machine learning. Check the [related survey](#Paper) for introduction to the topic and a review of the recent advances .
 
 <div align="center">
     <img class="aligncenter" style="width:800px" src="imgs/signature.png"/>
 </div>
 
-A curated list of research works and resources on optimal transport in machine learning. Check the [related survey](#Paper) for introduction to the topic and a review of the recent advances .
 
 ---
 ### Contents
