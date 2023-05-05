@@ -45,9 +45,9 @@ Sections:
 [Earth Movers in the Big Data Era: A Review of Optimal Transport in Machine Learning]()
 
 ```
-@article{khamis2023,
+@article{khamis23,
   title={Earth Movers in the Big Data Era: A Review of Optimal Transport in Machine Learning},
-  author={Khamis, Abdelwahed and Tsuchida, Russell and Tarek, Mohamed},
+  author={Khamis, Abdelwahed and Tsuchida, Russell and Tarek, Mohamed and Rolland, Vivien and Petersson, Lars},
   journal={arXiv preprint},
   year={2023}
 }
