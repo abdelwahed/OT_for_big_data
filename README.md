@@ -42,14 +42,16 @@ Sections:
 ---
 ### Paper
 
-[Earth Movers in the Big Data Era: A Review of Optimal Transport in Machine Learning]()
+[Earth Movers in the Big Data Era: A Review of Optimal Transport in Machine Learning](https://arxiv.org/abs/2305.05080)
 
 ```
-@article{khamis23,
-  title={Earth Movers in the Big Data Era: A Review of Optimal Transport in Machine Learning},
-  author={Khamis, Abdelwahed and Tsuchida, Russell and Tarek, Mohamed and Rolland, Vivien and Petersson, Lars},
-  journal={arXiv preprint},
-  year={2023}
+@article{khamis2023earth,
+      title={Earth Movers in The Big Data Era: A Review of Optimal Transport in Machine Learning}, 
+      author={Abdelwahed Khamis and Russell Tsuchida and Mohamed Tarek and Vivien Rolland and Lars Petersson},
+      year={2023},
+      eprint={2305.05080},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au) 
