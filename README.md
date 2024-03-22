@@ -20,7 +20,7 @@ Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au)
 ---
 
 <div align="center">
-    <img class="aligncenter" style="width:800px" srcan ="imgs/survey_outline.png"/>
+    <img  style="width:800px" srcan ="imgs/survey_outline.png"/>
 </div>
 
 
