@@ -1,9 +1,10 @@
 # Scalable Optimal Transport Methods in Machine Learning
 
-A curated list of research works and resources on optimal transport in machine learning. Check the [related survey](#Paper) for introduction to the topic and a review of the recent advances .
+A curated list of research works and resources on optimal transport in machine learning. 
+Check the [related survey](#Paper) for introduction to the topic and a review of the recent advances.
 
 <div align="center">
-    <img class="aligncenter" style="width:800px" src="imgs/survey_outline.png"/>
+    <img class="aligncenter" style="width:800px" srcan ="imgs/survey_outline.png"/>
 </div>
 
 
@@ -45,7 +46,7 @@ Sections:
 [Scalable Optimal Transport Methods in Machine Learning: A Contemporary Survey [TPAMI 24]](https://ieeexplore.ieee.org/document/10476763)
 
 ```
-@article{khamis2024OT,
+@article{khamis24OT,
       title={Scalable Optimal Transport Methods in Machine Learning: A Contemporary Survey}, 
       author={Abdelwahed Khamis and Russell Tsuchida and Mohamed Tarek and Vivien Rolland and Lars Petersson},
       year={2024},
