@@ -1,9 +1,9 @@
-# Optimal Transport in the Big Data Era
+# Scalable Optimal Transport Methods in Machine Learning
 
 A curated list of research works and resources on optimal transport in machine learning. Check the [related survey](#Paper) for introduction to the topic and a review of the recent advances .
 
 <div align="center">
-    <img class="aligncenter" style="width:800px" src="imgs/signature.png"/>
+    <img class="aligncenter" style="width:800px" src="imgs/survey_outline.png"/>
 </div>
 
 
@@ -42,16 +42,15 @@ Sections:
 ---
 ### Paper
 
-[Earth Movers in the Big Data Era: A Review of Optimal Transport in Machine Learning](https://arxiv.org/abs/2305.05080)
+[Scalable Optimal Transport Methods in Machine Learning: A Contemporary Survey [TPAMI 24]](https://ieeexplore.ieee.org/document/10476763)
 
 ```
-@article{khamis2023earth,
-      title={Earth Movers in The Big Data Era: A Review of Optimal Transport in Machine Learning}, 
+@article{khamis2024OT,
+      title={Scalable Optimal Transport Methods in Machine Learning: A Contemporary Survey}, 
       author={Abdelwahed Khamis and Russell Tsuchida and Mohamed Tarek and Vivien Rolland and Lars Petersson},
-      year={2023},
-      eprint={2305.05080},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      year={2024},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+      publisher={IEEE}
 }
 ```
 Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au) 
