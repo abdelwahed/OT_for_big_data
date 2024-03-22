@@ -15,10 +15,12 @@ A curated list of research works and resources on optimal transport in machine l
 [//]: # (Contact: [Abdelwahed Khamis]&#40;mailto:abdelwahed.khamis@data61.csiro.au&#41; )
 
 
+[//]: # ()
+[//]: # (<div align="center">)
 
-<div align="center">
-    <img  style="width:800px" src ="./imgs/survey_outline.png"/>
-</div>
+[//]: # (    <img  style="width:300px" src ="./imgs/survey_outline.png"/>)
+
+[//]: # (</div>)
 
 ---
 
