@@ -1,9 +1,6 @@
-# Scalable Optimal Transport Methods in Machine Learning
+# Scalable Optimal Transport 
 
-A curated list of research works and resources on optimal transport in machine learning. 
-Check the paper for introduction to the topic and a review of the recent advances.
-
-[Scalable Optimal Transport Methods in Machine Learning: A Contemporary Survey [TPAMI 24]](https://ieeexplore.ieee.org/document/10476763)
+A curated list of research works and resources on optimal transport in machine learning.  [Related Paper](https://ieeexplore.ieee.org/document/10476763).
 
 ```
 @article{khamis24OT,
@@ -14,20 +11,19 @@ Check the paper for introduction to the topic and a review of the recent advance
       publisher={IEEE}
 }
 ```
-Contact: [Abdelwahed Khamis](mailto:abdelwahed.khamis@data61.csiro.au) 
 
+[//]: # (Contact: [Abdelwahed Khamis]&#40;mailto:abdelwahed.khamis@data61.csiro.au&#41; )
+
+
+
+<div align="center">
+    <img  style="width:800px" src ="./imgs/survey_outline.png"/>
+</div>
 
 ---
 
-<div align="center">
-    <img  style="width:800px" srcan ="imgs/survey_outline.png"/>
-</div>
-
-
 
 ### Contents
-Overview
-- [Paper](#Paper)
 
 Sections:
 - [Background](#Background)
@@ -55,13 +51,7 @@ Sections:
   - [Other Applications](#Other-Applications)
 - [Software and Tools](#Software-and-Tools)
 
-
 ---
-### Paper
-
-
----
-
 
 ### Background 
 * **2021** - __`SIAM`__ [*Stochastic control liaisons: Richard sinkhorn meets gaspard monge on a schrodinger bridge*](http://arxiv.org/pdf/2005.10963v3)
@@ -204,7 +194,7 @@ Sections:
 ## Scaling OT
 
 <div align="center">
-    <img class="aligncenter" style="width:900px" src="imgs/scaling_ot.png"/>
+    <img class="aligncenter" style="width:900px" src="imgs/scaling_OT.png"/>
 </div>
 
 
