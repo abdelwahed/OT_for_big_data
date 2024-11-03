@@ -68,7 +68,7 @@ Sections:
 * **2023** - __`CoRL`__ [*Watch and match: Supercharging imitation with regularized optimal transport*](http://arxiv.org/pdf/2206.15469v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/siddhanthaldar/ROT.git)
 * **2022** - __`IG`__ [*Entropy-regularized 2-wasserstein distance between gaussian measures*](https://link.springer.com/content/pdf/10.1007/s41884-021-00052-8.pdf) 
 * **2021** - __`ICDM`__ [*A regularized wasserstein framework for graph kernels*](http://arxiv.org/pdf/2110.02554v2) 
-* **2020** - __`arXiv`__ [*MMD-regularized Unbalanced Optimal Transport*](https://arxiv.org/pdf/2011.05001.pdf) 
+* **2020** - __`TMLR`__ [*MMD-regularized Unbalanced Optimal Transport*](https://arxiv.org/pdf/2011.05001.pdf) <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/Piyushi-0/MMD-reg-OT.git)
 * **2020** - __`ICML`__ [*Regularized optimal transport is ground cost adversarial*](http://arxiv.org/pdf/2002.03967v3) 
 * **2020** - __`SIAM`__ [*Empirical regularized optimal transport: Statistical theory and applications*](http://arxiv.org/pdf/1810.09880v3) 
 * **2019** -  [*Quantum entropic regularization of matrix-valued optimal transport*](https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics/article/quantum-entropic-regularization-of-matrixvalued-optimal-transport/13673C87C2390AE97914DED32DD5178B) 
