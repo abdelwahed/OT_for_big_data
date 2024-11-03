@@ -32,7 +32,7 @@ Sections:
 - Formulations  
   - [Regularized OT](#Regularized-OT)
     - [Sinkhorn](#Sinkhorn)
-  - [Unblanaced & Partial OT](#Unblanaced-and-partial-OT)
+  - [Unbalanced & Partial OT](#Unbalanced-and-partial-OT)
   - [Structured OT](#Structured-OT)
   - [Dynamic OT and Schrodinger Bridge](#Dynamic-OT-and-Schrodinger-Bridge)
   - [Multi-Marginal and Wasserstein Barycenter](#Multi-Marginal-and-Wasserstein-Barycenter)
@@ -103,7 +103,7 @@ Sections:
 
 
 
-### Unblanaced and Partial OT
+### Unbalanced and Partial OT
 * **2022** - __`arXiv`__ [*Unbalanced optimal transport, from theory to numerics*](http://arxiv.org/pdf/2211.08775v2) 
 * **2021** - __`ICPR`__ [*Unbalanced optimal transport in multi-camera tracking applications*](https://link.springer.com/chapter/10.1007/978-3-030-68821-9_30) 
 * **2021** - __`AAAI`__ [*Learning to count via unbalanced optimal transport*](https://ojs.aaai.org/index.php/AAAI/article/view/16332) 
