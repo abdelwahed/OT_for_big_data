@@ -112,6 +112,8 @@ Sections:
 * **2018** -  [*Unbalanced optimal transport: Dynamic and kantorovich formulations*](http://arxiv.org/pdf/1508.05216v3) 
 
 ### Structured OT
+* **2024** - __`ICML`__ [*Submodular Framework for Structured-Sparse Optimal Transport*](https://arxiv.org/pdf/2406.04914)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/Piyushi-0/Sparse-UOT.git)
+* **2023** - __`ICLR`__ [*Sparsity-Constrained Optimal Transport*](https://arxiv.org/pdf/2209.15466)
 * **2019** - __`NeurIPS`__ [*Hierarchical optimal transport for document representation*](http://arxiv.org/pdf/1906.10827v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/IBM/HOTT.git)
 * **2018** - __`AISTATS`__ [*Structured optimal transport*](https://dmelis.github.io/assets/publications/2018_structured_ot/AISTATS2018_Structured.pdf) 
 
