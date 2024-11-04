@@ -32,7 +32,7 @@ Sections:
 - Formulations  
   - [Regularized OT](#Regularized-OT)
     - [Sinkhorn](#Sinkhorn)
-  - [Unblanaced & Partial OT](#Unblanaced-and-partial-OT)
+  - [Unbalanced & Partial OT](#Unbalanced-and-partial-OT)
   - [Structured OT](#Structured-OT)
   - [Dynamic OT and Schrodinger Bridge](#Dynamic-OT-and-Schrodinger-Bridge)
   - [Multi-Marginal and Wasserstein Barycenter](#Multi-Marginal-and-Wasserstein-Barycenter)
@@ -68,7 +68,7 @@ Sections:
 * **2023** - __`CoRL`__ [*Watch and match: Supercharging imitation with regularized optimal transport*](http://arxiv.org/pdf/2206.15469v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/siddhanthaldar/ROT.git)
 * **2022** - __`IG`__ [*Entropy-regularized 2-wasserstein distance between gaussian measures*](https://link.springer.com/content/pdf/10.1007/s41884-021-00052-8.pdf) 
 * **2021** - __`ICDM`__ [*A regularized wasserstein framework for graph kernels*](http://arxiv.org/pdf/2110.02554v2) 
-* **2020** - __`arXiv`__ [*MMD-regularized Unbalanced Optimal Transport*](https://arxiv.org/pdf/2011.05001.pdf) 
+* **2020** - __`TMLR`__ [*MMD-regularized Unbalanced Optimal Transport*](https://arxiv.org/pdf/2011.05001.pdf) <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/Piyushi-0/MMD-reg-OT.git)
 * **2020** - __`ICML`__ [*Regularized optimal transport is ground cost adversarial*](http://arxiv.org/pdf/2002.03967v3) 
 * **2020** - __`SIAM`__ [*Empirical regularized optimal transport: Statistical theory and applications*](http://arxiv.org/pdf/1810.09880v3) 
 * **2019** -  [*Quantum entropic regularization of matrix-valued optimal transport*](https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics/article/quantum-entropic-regularization-of-matrixvalued-optimal-transport/13673C87C2390AE97914DED32DD5178B) 
@@ -103,7 +103,7 @@ Sections:
 
 
 
-### Unblanaced and Partial OT
+### Unbalanced and Partial OT
 * **2022** - __`arXiv`__ [*Unbalanced optimal transport, from theory to numerics*](http://arxiv.org/pdf/2211.08775v2) 
 * **2021** - __`ICPR`__ [*Unbalanced optimal transport in multi-camera tracking applications*](https://link.springer.com/chapter/10.1007/978-3-030-68821-9_30) 
 * **2021** - __`AAAI`__ [*Learning to count via unbalanced optimal transport*](https://ojs.aaai.org/index.php/AAAI/article/view/16332) 
@@ -112,6 +112,8 @@ Sections:
 * **2018** -  [*Unbalanced optimal transport: Dynamic and kantorovich formulations*](http://arxiv.org/pdf/1508.05216v3) 
 
 ### Structured OT
+* **2024** - __`ICML`__ [*Submodular Framework for Structured-Sparse Optimal Transport*](https://arxiv.org/pdf/2406.04914)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/Piyushi-0/Sparse-UOT.git)
+* **2023** - __`ICLR`__ [*Sparsity-Constrained Optimal Transport*](https://arxiv.org/pdf/2209.15466)
 * **2019** - __`NeurIPS`__ [*Hierarchical optimal transport for document representation*](http://arxiv.org/pdf/1906.10827v2)  <img src="/imgs/github-mark.png" width="20" height="20" /> [<font color="pink"> Code</font>](https://github.com/IBM/HOTT.git)
 * **2018** - __`AISTATS`__ [*Structured optimal transport*](https://dmelis.github.io/assets/publications/2018_structured_ot/AISTATS2018_Structured.pdf) 
 
